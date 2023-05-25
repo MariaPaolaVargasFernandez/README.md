@@ -4,8 +4,7 @@
 ![](https://thumbs.dreamstime.com/z/tecnolog%C3%ADa-de-seguridad-inform%C3%A1tica-alta-fondo-concepto-global-digital-ilustraci%C3%B3n-vectorial-abstracta-muchos-usos-para-la-204862407.jpg)
 
 <P>
-en este documento podras encontrar informacion sobre los
-***Sistemas De Control Versiones (VCS)***, tambien una lista de algunos (VCS) y de cuales son sus ventajas y desventajas.
+en este documento podras encontrar informacion sobre los Sistemas De Control Versiones (VCS), tambien una lista de algunos (VCS) y de cuales son sus ventajas y desventajas.
 </P>
 
 
@@ -17,7 +16,7 @@ en este documento podras encontrar informacion sobre los
 ##### 4.Bazaar (bzr). 
 ##### 5.Visual SourceSafe (Microsoft).
 
-<p>
-espero que la informacion les sea de utilidad :tw-1f4ce: :tw-1f4c2: :tw-1f4bb:
-<p>
+
+[^1]:espero que la informacion les sea de utilidad :tw-1f4ce: :tw-1f4c2: :tw-1f4bb:
+
 
