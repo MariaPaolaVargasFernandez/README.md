@@ -17,7 +17,7 @@ en este documento podras encontrar informacion sobre los Sistemas De Control Ver
 ##### 5.Visual SourceSafe (Microsoft).
 
 
-<P>
-espero que la informacion les sea de utilidad 
-<P>
+
+***espero que la informacion les sea de utilidad ***
+
 
