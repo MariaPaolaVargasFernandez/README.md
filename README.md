@@ -10,11 +10,11 @@ en este documento podras encontrar informacion sobre los **Sistemas De Control V
 
 ## Lista
 
-#####1.	CVS (Concurrent versions system)
-##### 2.	Subversión (SVN).
-#####3.	Mercurial (hg). 
-#####4.	Bazaar (bzr). 
-#####5.	Visual SourceSafe (Microsoft).
+#####1.CVS (Concurrent versions system)
+#####2.Subversión (SVN).
+#####3.Mercurial (hg). 
+#####4.Bazaar (bzr). 
+#####5.Visual SourceSafe (Microsoft).
 
 <p>
 espero que la informacion les sea de utilidad :tw-1f4ce: :tw-1f4c2: :tw-1f4bb:
