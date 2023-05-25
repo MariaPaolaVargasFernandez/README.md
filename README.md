@@ -17,6 +17,7 @@ en este documento podras encontrar informacion sobre los Sistemas De Control Ver
 ##### 5.Visual SourceSafe (Microsoft).
 
 
-[^1]:espero que la informacion les sea de utilidad :tw-1f4ce: :tw-1f4c2: :tw-1f4bb:
-
+<P>
+espero que la informacion les sea de utilidad :tw-1f4ce: :tw-1f4c2: :tw-1f4bb:
+<P>
 
