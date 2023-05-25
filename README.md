@@ -1,5 +1,4 @@
-# SISTEMAS DE CONTROL DE VERSIONES (VCS) 
-:EMOJICODE:tw-1f4ce: :tw-1f4bb: 
+# SISTEMAS DE CONTROL DE VERSIONES (VCS)  
 
 
 ![](https://thumbs.dreamstime.com/z/tecnolog%C3%ADa-de-seguridad-inform%C3%A1tica-alta-fondo-concepto-global-digital-ilustraci%C3%B3n-vectorial-abstracta-muchos-usos-para-la-204862407.jpg)
@@ -19,6 +18,6 @@ en este documento podras encontrar informacion sobre los Sistemas De Control Ver
 
 
 <P>
-espero que la informacion les sea de utilidad :tw-1f4ce: :tw-1f4c2: :tw-1f4bb:
+espero que la informacion les sea de utilidad 
 <P>
 
