@@ -18,6 +18,5 @@ en este documento podras encontrar informacion sobre los Sistemas De Control Ver
 
 
 
-## espero que la informacion les sea de utilidad 
 
 
